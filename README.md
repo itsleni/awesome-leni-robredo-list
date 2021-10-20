@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="media/awesome-leni" alt="Awesome Leni Robredo List">
+	<img src="media/awesome-leni.jpg" alt="Awesome Leni Robredo List">
 	<br>
 	<br>
     <hr>
