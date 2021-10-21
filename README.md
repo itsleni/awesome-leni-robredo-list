@@ -1,10 +1,10 @@
 <div align="center">
 	<img src="media/awesome-leni.jpg" alt="Awesome Leni Robredo List">
-    <p>by <a href="https://www.facebook.com/groups/it4leni">IT4LENI</a></p>
 	<br>
 	<br>
     <hr>
     <h1>List of links for the campaign of Leni Robredo for Philippines President</h1>
+    <p>by <a href="https://www.facebook.com/groups/it4leni">IT Professionals fro LENI</a> & contributors.</p>
     <br>
     <br>
     <h2>Official Leni Robredo Links</h2>
