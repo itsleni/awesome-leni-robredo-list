@@ -46,6 +46,8 @@
 - [Doctors for LENI](https://www.facebook.com/groups/doctorsforleni/)
 - [BIKERS FOR LENI ( TROPANG LENI ROBREDO )](https://www.facebook.com/groups/bikersforleni/)
 - [Negros for LENI](https://www.facebook.com/groups/n4leni/)
+- [MAPS For Leni](https://www.facebook.com/groups/657160581864944/) - MAPS For Leni (Marketing, Advertising, PR And Sales Professionals)
+- [Davao Para Kay Leni](https://www.facebook.com/DavaoParaKayLeni/)
 
 ## Twitter
 
