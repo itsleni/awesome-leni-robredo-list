@@ -4,7 +4,7 @@
 	<br>
     <hr>
     <h1>List of links for the campaign of Leni Robredo for Philippines President</h1>
-    <p>by <a href="https://www.facebook.com/groups/it4leni">IT Professionals fro LENI</a> & contributors.</p>
+    <p>by <a href="https://www.facebook.com/groups/it4leni">IT Professionals for LENI</a> & contributors.</p>
     <br>
     <br>
     <h2>Official Leni Robredo Links</h2>
