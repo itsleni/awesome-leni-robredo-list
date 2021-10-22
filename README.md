@@ -115,7 +115,7 @@ This links will redirect you to individual forms of each volunteer groups.
 
 ## How to Contribute?
 
-Temporarily message nyo po kami sa tweeter [IT Professionals for LENI](https://twitter.com/itforleni), Kung kayo naman po ay developer, PRs are welcome.
+Temporarily message nyo po kami sa twitter [IT Professionals for LENI](https://twitter.com/itforleni), Kung kayo naman po ay developer, PRs are welcome.
 
 ### Thanks to all contributors
 
