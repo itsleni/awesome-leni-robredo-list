@@ -3,7 +3,7 @@
 	<br>
 	<br>
     <hr>
-    <h1>List of links for the campaign of Leni Robredo for Philippines President</h1>
+    <h1>List of links for the campaign of Leni Robredo for Philippine President</h1>
     <p>by <a href="https://www.facebook.com/groups/it4leni">IT Professionals for LENI</a> & contributors.</p>
     <br>
     <br>
@@ -20,13 +20,50 @@
 ## Contents
 
 - [Websites](#websites)
+- [What Did LENI Do?](#what-did-leni-do)
 - [Facebook Groups and Pages](#facebook-groups-and-pages)
 - [Twitter](#twitter)
 - [Instagram](#instagram)
 - [Youtube](#youtube)
+- [Telegram](#telegram)
 - [Graphic Resources](#graphic-resources)
-- [Want to Volunteer](#want-to-volunteer)
-- [How To Contribute](#how-to-contribute)
+- [Want to Volunteer?](#want-to-volunteer)
+- [How To Contribute?](#how-to-contribute)
+
+## What Did Leni Do?
+
+Iilan lang po ito sa maraming mga nagawa ni LENI Robredo.
+
+- Farmers
+
+  - (https://www.facebook.com/watch/?v=10154392781129453&ref=sharing&_rdc=1&_rdr)
+
+- Healthcare
+
+  - (https://web.facebook.com/OVPBayanihanEKonsulta)
+
+- Education
+
+  - (https://web.facebook.com/dzmmteleradyo/posts/10158044963214620)
+
+- Labor
+
+  - (https://web.facebook.com/photo/?fbid=4204140313047063&set=a.634351246692672)
+
+- Food Security
+
+  - (https://rappler.com/moveph/leni-robredo-national-food-security-bill)
+
+- Social Benefits
+
+  - (https://rappler.com/nation/robredo-message-duterte-government-give-monthly-cash-aid-poorest-filipino-families)
+
+- Agrarian
+
+  - (https://mb.com.ph/2021/07/01/robredo-augments-livelihood-of-agrarian-reform-beneficiaries/)
+
+- Peace Talks
+  - (https://mindanews.com/peace-process/2021/10/robredo-to-resume-peace-talks-with-ndf-if-elected-president-but/)
 
 ## Websites
 
@@ -68,7 +105,7 @@
 
 ## Graphic Resources
 
-## Want to Volunteer
+## Want to Volunteer?
 
 This links will redirect you to individual forms of each volunteer groups.
 
@@ -76,8 +113,11 @@ This links will redirect you to individual forms of each volunteer groups.
 - [Dapat Si Leni](https://dapatsileni.com/volunteer-for-leni/)
 - [Lawyers for Leni](https://docs.google.com/forms/d/e/1FAIpQLSdzI2-GjqHwDjimprbapeWsQO6G-keiZnuY-UijaJIHjt47pg/viewform)
 
-## How to Contribute
+## How to Contribute?
 
-#### Header photo thanks to
+Temporarily message nyo po kami sa tweeter [IT Professionals for LENI](https://twitter.com/itforleni), Kung kayo naman po ay developer, PRs are welcome.
 
-[Jeff Crisostomo](https://twitter.com/jeffcrisostomo)
+### Thanks to all contributors
+
+- [Jeff Crisostomo](https://twitter.com/jeffcrisostomo) - Header banner
+- [GEL](https://twitter.com/gelgeljeric) - Sectoral work links
