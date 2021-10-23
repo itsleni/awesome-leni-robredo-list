@@ -91,6 +91,11 @@ Iilan lang po ito sa maraming mga nagawa ni LENI Robredo.
 - [Film Workers for Leni](https://www.facebook.com/groups/1064758627660640/)
 - [Vets for Leni](https://www.facebook.com/groups/137644845217968/)
 - [Leni for President Movement](https://www.facebook.com/groups/1203728010022034/)
+- [Ako at si Leni](https://www.facebook.com/akoatsileni/)
+- [Laban Leni 2022 (Negros Occidental)](https://www.facebook.com/groups/416575729852536)
+
+- Abroad or OFW groups
+  - [Team Leni Robredo Singapore](https://www.facebook.com/groups/teamlenirobredosg)
 
 ## Twitter
 
@@ -110,6 +115,9 @@ Iilan lang po ito sa maraming mga nagawa ni LENI Robredo.
 ## Telegram
 
 ## Graphic Resources
+
+- [Bakit si Leni? fliers](https://drive.google.com/drive/folders/1b3goNbMP1SIWFpQCtNaqt3W3Oa0WMhma) - @nowthisis_em
+- [Leni/Kiko Arts](https://drive.google.com/drive/folders/1KAIq2e-xDeZn3NFmTX8kC9FdPtMAN8gG) - @robertalejandro
 
 ## Want to Volunteer?
 
