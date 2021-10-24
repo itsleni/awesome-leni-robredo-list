@@ -70,6 +70,7 @@ Iilan lang po ito sa maraming mga nagawa ni LENI Robredo.
 - [Team Leni Robredo](https://teamlenirobredo.com) - Kakampink
 - [Dapat Si Leni](https://dapatsileni.com) - Dapat Si Leni Volunteer group
 - [Robredo2022](https://robredo2022.com) - Robredo2022
+- [Leni For You](https://leniforyou.com/)
 
 ## Facebook Groups and Pages
 
@@ -82,20 +83,70 @@ Iilan lang po ito sa maraming mga nagawa ni LENI Robredo.
 - [Architects for LENI](https://www.facebook.com/architectsforLeni/)
 - [Doctors for LENI](https://www.facebook.com/groups/doctorsforleni/)
 - [BIKERS FOR LENI ( TROPANG LENI ROBREDO )](https://www.facebook.com/groups/bikersforleni/)
-- [Negros for LENI](https://www.facebook.com/groups/n4leni/)
 - [MAPS For Leni](https://www.facebook.com/groups/657160581864944/) - MAPS For Leni (Marketing, Advertising, PR And Sales Professionals)
-- [Davao Para Kay Leni](https://www.facebook.com/DavaoParaKayLeni/)
-- [Ilocanos for Leni](https://www.facebook.com/ilocanosforleni/)
 - [Women for Leni](https://www.facebook.com/womenforleni/)
 - [Accountants for Leni](https://www.facebook.com/groups/accountantsforleni/)
 - [Film Workers for Leni](https://www.facebook.com/groups/1064758627660640/)
 - [Vets for Leni](https://www.facebook.com/groups/137644845217968/)
 - [Leni for President Movement](https://www.facebook.com/groups/1203728010022034/)
 - [Ako at si Leni](https://www.facebook.com/akoatsileni/)
-- [Laban Leni 2022 (Negros Occidental)](https://www.facebook.com/groups/416575729852536)
+- [Leni Is My President Movement](https://www.facebook.com/groups/586213985747203/)
+- [Insurers for Leni (FB Group)](https://www.facebook.com/groups/insurersforleni/)
+- [Teachers for Leni](https://www.facebook.com/groups/555013055587944/)
+- [Masbate for Leni](https://www.facebook.com/groups/249756333749566/)
+- [ABS-CBN Supporters for Leni Robredo 🇵🇭](https://www.facebook.com/groups/578146496952020/)
+- [Seniors for Leni (Public)](https://www.facebook.com/groups/231618655675491/)
+- [Leni For You](https://www.facebook.com/LeniForYou/)
+
+- Luzon
+
+  - [Bicolanos for Leni 2022](https://www.facebook.com/groups/bicolanosforleni2022/)
+  - [Olongapo for Leni Movement](https://www.facebook.com/groups/153831723551485/)
+  - [Batangas For Leni](https://www.facebook.com/groups/1850826231768374/)
+  - [Iriga for Leni](https://www.facebook.com/groups/324960092738049/)
+  - [Palawenos for Leni 2022](https://www.facebook.com/groups/582020303216526/)
+  - [Zambales For Leni Volunteers](https://www.facebook.com/groups/1790589137797061/)
+  - [Ilocanos for Leni](https://www.facebook.com/ilocanosforleni/)
+  - [Catanduanes for Leni](https://www.facebook.com/groups/405921771132242/)
+  - [QUEZON FOR LENI - 2022](https://www.facebook.com/groups/3689471697766383/)
+  - [CAVITE for LENI](https://www.facebook.com/groups/655504608768027/)
+  - [Ligao City for Leni Robredo](https://www.facebook.com/groups/609413743830369/)
+  - [Bulacan For LENI](https://www.facebook.com/groups/187428989412589/)
+
+- Visayas
+
+  - [Negros for LENI](https://www.facebook.com/groups/n4leni/)
+  - [Laban Leni 2022 (Negros Occidental)](https://www.facebook.com/groups/416575729852536)
+  - [Boholanos for Leni 2022](https://www.facebook.com/groups/1013085689241963/)
+  - [Iloilo Educators for Leni](https://www.facebook.com/groups/616704446037611/)
+  - [Ilonggos for Leni](https://www.facebook.com/groups/227518746101146/)
+  - [Leni for President - Eastern Visayas Chapter](https://www.facebook.com/groups/2859945317624665/)
+  - [Cebu for Leni](https://www.facebook.com/cebuforleni/)
+
+- Mindanao
+
+  - [Davao Para Kay Leni](https://www.facebook.com/DavaoParaKayLeni/)
+  - [CDO for Leni](https://www.facebook.com/groups/cdoforleni/)
+  - [1Lanao for Leni](https://www.facebook.com/groups/563324841647136/)
 
 - Abroad or OFW groups
+
   - [Team Leni Robredo Singapore](https://www.facebook.com/groups/teamlenirobredosg)
+  - [OFWS QATAR FOR LENI](https://www.facebook.com/groups/qatarforleni/)
+  - [HONG KONG FOR LENI ROBREDO 2022](https://www.facebook.com/groups/4177055192420335/)
+  - [Global Pinoys for Leni Robredo (OFWs, Expats, Dual Citizens, Pinoys Abroad)](https://www.facebook.com/groups/globalpinoys4lenirobredo/)
+  - [Global Filipinos For Leni](https://www.facebook.com/groups/globalfilipinosforleni/)
+
+- Youths
+
+  - [Youth for Leni](https://www.facebook.com/YouthForLeni/)
+  - [Cebu Youth For Leni 2022](https://www.facebook.com/groups/388550526150904/)
+  - [Negros Youth for Leni](https://www.facebook.com/NegrosYouth4Leni/)
+  - [Youth for Leni Iloilo](https://www.facebook.com/Youth4LeniIloilo/)
+
+- Schools
+  - [Bedans for Leni](https://www.facebook.com/groups/bedansforleni/)
+  - [Bosconians for Leni Facebook Group](https://www.facebook.com/groups/bosconiansforleni/)
 
 ## Twitter
 
