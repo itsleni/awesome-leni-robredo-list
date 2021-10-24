@@ -97,6 +97,7 @@ Iilan lang po ito sa maraming mga nagawa ni LENI Robredo.
 - [ABS-CBN Supporters for Leni Robredo 🇵🇭](https://www.facebook.com/groups/578146496952020/)
 - [Seniors for Leni (Public)](https://www.facebook.com/groups/231618655675491/)
 - [Leni For You](https://www.facebook.com/LeniForYou/)
+- [LGBTQIA+ for Leni](https://www.facebook.com/LGBTQIAforLeni)
 
 - Luzon
 
@@ -177,6 +178,7 @@ This links will redirect you to individual forms of each volunteer groups.
 - [Team Leni Robredo](https://docs.google.com/forms/d/e/1FAIpQLSfnMYAm4LJUUSkfHfQ9H8s9CDfKSABPkSDHO8kNl0ncBfeq7w/viewform)
 - [Dapat Si Leni](https://dapatsileni.com/volunteer-for-leni/)
 - [Lawyers for Leni](https://docs.google.com/forms/d/e/1FAIpQLSdzI2-GjqHwDjimprbapeWsQO6G-keiZnuY-UijaJIHjt47pg/viewform)
+- [LGBTQIA+ for Leni](https://docs.google.com/forms/d/e/1FAIpQLSf7V0kOsVe9qrO8f_Tu5qGpNog4DJowdqhsN6FEJl5Rd5lwPw/viewform)
 
 ## How to Contribute?
 
