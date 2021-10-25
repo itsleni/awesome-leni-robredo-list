@@ -168,6 +168,7 @@ Iilan lang po ito sa maraming mga nagawa ni LENI Robredo.
 
 ## Graphic Resources
 
+- [LabanLeni2022 - Project Kakampink](https://www.notion.so/labanleni2022/Tara-isigaw-pa-natin-sa-lahat-Laban-Leni-sa-2022-cb5b2e157ebc44e89228b8b05d81875c) - Ang daming materials dito, Check ninyo
 - [Bakit si Leni? fliers](https://drive.google.com/drive/folders/1b3goNbMP1SIWFpQCtNaqt3W3Oa0WMhma) - @nowthisis_em
 - [Leni/Kiko Arts](https://drive.google.com/drive/folders/1KAIq2e-xDeZn3NFmTX8kC9FdPtMAN8gG) - @robertalejandro
 
