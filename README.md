@@ -26,6 +26,7 @@
 - [Instagram](#instagram)
 - [Youtube](#youtube)
 - [Telegram](#telegram)
+- [Tiktok](#tiktok)
 - [Graphic Resources](#graphic-resources)
 - [Want to Volunteer?](#want-to-volunteer)
 - [How To Contribute?](#how-to-contribute)
@@ -113,6 +114,7 @@ Iilan lang po ito sa maraming mga nagawa ni LENI Robredo.
   - [CAVITE for LENI](https://www.facebook.com/groups/655504608768027/)
   - [Ligao City for Leni Robredo](https://www.facebook.com/groups/609413743830369/)
   - [Bulacan For LENI](https://www.facebook.com/groups/187428989412589/)
+  - [Calamba for Leni-Kiko](https://www.facebook.com/calambaforleniandkiko)
 
 - Visayas
 
@@ -136,7 +138,7 @@ Iilan lang po ito sa maraming mga nagawa ni LENI Robredo.
   - [OFWS QATAR FOR LENI](https://www.facebook.com/groups/qatarforleni/)
   - [HONG KONG FOR LENI ROBREDO 2022](https://www.facebook.com/groups/4177055192420335/)
   - [Global Pinoys for Leni Robredo (OFWs, Expats, Dual Citizens, Pinoys Abroad)](https://www.facebook.com/groups/globalpinoys4lenirobredo/)
-  - [Global Filipinos For Leni](https://www.facebook.com/groups/globalfilipinosforleni/)
+  - [Global Filipinos For Leni](https://www.facebook.com/groups/globalfilipinosforleni/) -[Team Leni Robredo Singapore](https://www.facebook.com/groups/teamlenirobredosg/)
 
 - Youths
 
@@ -144,6 +146,7 @@ Iilan lang po ito sa maraming mga nagawa ni LENI Robredo.
   - [Cebu Youth For Leni 2022](https://www.facebook.com/groups/388550526150904/)
   - [Negros Youth for Leni](https://www.facebook.com/NegrosYouth4Leni/)
   - [Youth for Leni Iloilo](https://www.facebook.com/Youth4LeniIloilo/)
+  - [Youth for Leni Laguna](https://www.facebook.com/groups/369625034906524)
 
 - Schools
   - [Bedans for Leni](https://www.facebook.com/groups/bedansforleni/)
@@ -166,11 +169,16 @@ Iilan lang po ito sa maraming mga nagawa ni LENI Robredo.
 
 ## Telegram
 
+-[#LabanLeni2022 Volunteers](https://t.me/LabanLeni)
+
+## Tiktok
+
 ## Graphic Resources
 
 - [LabanLeni2022 - Project Kakampink](https://www.notion.so/labanleni2022/Tara-isigaw-pa-natin-sa-lahat-Laban-Leni-sa-2022-cb5b2e157ebc44e89228b8b05d81875c) - Ang daming materials dito, Check ninyo
 - [Bakit si Leni? fliers](https://drive.google.com/drive/folders/1b3goNbMP1SIWFpQCtNaqt3W3Oa0WMhma) - @nowthisis_em
 - [Leni/Kiko Arts](https://drive.google.com/drive/folders/1KAIq2e-xDeZn3NFmTX8kC9FdPtMAN8gG) - @robertalejandro
+- [Leni Robredo 2022 Collaterals](https://drive.google.com/drive/folders/1lYrnJsMHAAnAYEJlU0uHnKaEN5wPBa1P)
 
 ## Want to Volunteer?
 
