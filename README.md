@@ -138,7 +138,8 @@ Iilan lang po ito sa maraming mga nagawa ni LENI Robredo.
   - [OFWS QATAR FOR LENI](https://www.facebook.com/groups/qatarforleni/)
   - [HONG KONG FOR LENI ROBREDO 2022](https://www.facebook.com/groups/4177055192420335/)
   - [Global Pinoys for Leni Robredo (OFWs, Expats, Dual Citizens, Pinoys Abroad)](https://www.facebook.com/groups/globalpinoys4lenirobredo/)
-  - [Global Filipinos For Leni](https://www.facebook.com/groups/globalfilipinosforleni/) -[Team Leni Robredo Singapore](https://www.facebook.com/groups/teamlenirobredosg/)
+  - [Global Filipinos For Leni](https://www.facebook.com/groups/globalfilipinosforleni/)
+  - [Team Leni Robredo Singapore](https://www.facebook.com/groups/teamlenirobredosg/)
 
 - Youths
 
