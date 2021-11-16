@@ -140,6 +140,9 @@ Iilan lang po ito sa maraming mga nagawa ni LENI Robredo.
   - [Global Pinoys for Leni Robredo (OFWs, Expats, Dual Citizens, Pinoys Abroad)](https://www.facebook.com/groups/globalpinoys4lenirobredo/)
   - [Global Filipinos For Leni](https://www.facebook.com/groups/globalfilipinosforleni/)
   - [Team Leni Robredo Singapore](https://www.facebook.com/groups/teamlenirobredosg/)
+  - [Team Leni Robredo - New Zealand](https://www.facebook.com/groups/264236575484065/)
+  - [Team Leni Robredo Japan - (Official Group)](https://www.facebook.com/groups/tlrjapan.officialgroup/)
+  - [Team Leni Robredo Thailand](https://www.facebook.com/teamLeniThailand/)
 
 - Youths
 
