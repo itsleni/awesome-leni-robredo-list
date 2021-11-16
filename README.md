@@ -72,6 +72,7 @@ Iilan lang po ito sa maraming mga nagawa ni LENI Robredo.
 - [Dapat Si Leni](https://dapatsileni.com) - Dapat Si Leni Volunteer group
 - [Robredo2022](https://robredo2022.com) - Robredo2022
 - [Leni For You](https://leniforyou.com/)
+- [Team Leni Robredo - Singapore](https://tinyurl.com/leni-sg-website)
 
 ## Facebook Groups and Pages
 
@@ -132,6 +133,9 @@ Iilan lang po ito sa maraming mga nagawa ni LENI Robredo.
   - [CDO for Leni](https://www.facebook.com/groups/cdoforleni/)
   - [1Lanao for Leni](https://www.facebook.com/groups/563324841647136/)
 
+
+
+
 - Abroad or OFW groups
 
   - [Team Leni Robredo Singapore](https://www.facebook.com/groups/teamlenirobredosg)
@@ -139,10 +143,61 @@ Iilan lang po ito sa maraming mga nagawa ni LENI Robredo.
   - [HONG KONG FOR LENI ROBREDO 2022](https://www.facebook.com/groups/4177055192420335/)
   - [Global Pinoys for Leni Robredo (OFWs, Expats, Dual Citizens, Pinoys Abroad)](https://www.facebook.com/groups/globalpinoys4lenirobredo/)
   - [Global Filipinos For Leni](https://www.facebook.com/groups/globalfilipinosforleni/)
-  - [Team Leni Robredo Singapore](https://www.facebook.com/groups/teamlenirobredosg/)
   - [Team Leni Robredo - New Zealand](https://www.facebook.com/groups/264236575484065/)
   - [Team Leni Robredo Japan - (Official Group)](https://www.facebook.com/groups/tlrjapan.officialgroup/)
   - [Team Leni Robredo Thailand](https://www.facebook.com/teamLeniThailand/)
+
+  Asia
+    - [Brunei Group](https://tinyurl.com/leni-br-fb)
+    - [Brunei Page](https://tinyurl.com/leni-br-fbpage)
+    - [Cambodia Group](https://tinyurl.com/leni-cb-fb)
+    - [China Group](https://tinyurl.com/leni-ch-fb)
+    - [HongKong/Macau Group](https://tinyurl.com/leni-hkma-fb)
+    - [Hongkong Group](https://tinyurl.com/leni-hk-fb)
+    - [Japan Group](https://tinyurl.com/leni-japan-fb)
+    - [Singapore Group](https://tinyurl.com/leni-sg-fb)
+    - [South Korea Group](https://tinyurl.com/leni-sk-fb)
+    - [Taiwan Group](https://tinyurl.com/leni-tw-fb)
+    - [Thailand Group](https://tinyurl.com/leni-th-fb)
+    - [Thailand Page](https://tinyurl.com/leni-th-fbpage)
+    - [Vietnam Group](https://tinyurl.com/leni-vtn-fb)
+        
+    Middle East
+    - [Middle East Group](https://tinyurl.com/leni-me1-fb)
+    - [Israel Group](https://tinyurl.com/leni-israel-fb)
+    - [Israel Page](https://www.facebook.com/HolyLandForLeniRobredo)
+    - [Kuwait Group](https://tinyurl.com/leni-ku-fb)
+    - [Qatar Group](https://tinyurl.com/leni-qt-fb)
+    - [Saudi Arabia Group](https://tinyurl.com/leni-sa-fb)
+    - [United Arab Emirates Group](https://tinyurl.com/leni-uae-fb)
+
+
+    North America
+    - [Canada Group](https://tinyurl.com/leni-ca-fb)
+    - [Canada - British Columbia Group](https://tinyurl.com/leni-ca-bc-fb)
+    - [Canada - Alberta Group](https://tinyurl.com/leni-ca-cal-fb)
+    - [Canada - Manitoba Group](https://tinyurl.com/leni-ca-mani-fb)
+    - [Canada - Ontario & Quebec Group](https://tinyurl.com/leni-ca-onqu-fb)
+    - [USA - East Coast Group](https://tinyurl.com/leni-fb-usa-eastcoast)
+    - [USA - West Coast/Pacific Northwest Group](https://tinyurl.com/leni-fb-usa-westcoast)
+    - [US & Canada for Leni Group](https://tinyurl.com/leni-usnca-fb)
+    - [USA & Canada for Leni & Kiko Group](https://tinyurl.com/leni-usca-fb)
+
+    Europe
+    - [Europe Group](https://tinyurl.com/leni-europe-fb)
+    - [Europe Instagram](https://tinyurl.com/leni-eu-ig)
+    - [Great Britain Whatsapp](https://tinyurl.com/leni-gb-whatsapp)
+    - [Spain Group](https://tinyurl.com/leni-es-fb)
+
+    Oceania
+    - [Australia Group](https://tinyurl.com/leni-au-fb)
+    - [Australia Telegram](https://t.me/joinchat/Md4U07ul_IExMzdl)
+    - [New Zealand Group](https://tinyurl.com/leni-nz-fb)
+    - [New Zealand Page](https://tinyurl.com/leni-nz-fbpage)
+
+
+
+
 
 - Youths
 
