@@ -100,6 +100,7 @@ Iilan lang po ito sa maraming mga nagawa ni LENI Robredo.
 - [Seniors for Leni (Public)](https://www.facebook.com/groups/231618655675491/)
 - [Leni For You](https://www.facebook.com/LeniForYou/)
 - [LGBTQIA+ for Leni](https://www.facebook.com/LGBTQIAforLeni)
+- [Athletes for Leni](https://www.facebook.com/groups/399401188426765)
 
 - Luzon
 
