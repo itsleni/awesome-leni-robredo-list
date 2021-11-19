@@ -101,6 +101,7 @@ Iilan lang po ito sa maraming mga nagawa ni LENI Robredo.
 - [Leni For You](https://www.facebook.com/LeniForYou/)
 - [LGBTQIA+ for Leni](https://www.facebook.com/LGBTQIAforLeni)
 - [Athletes for Leni](https://www.facebook.com/groups/399401188426765)
+- [Runners For Leni](https://www.facebook.com/groups/runners4leni)
 
 - Luzon
 
@@ -117,6 +118,7 @@ Iilan lang po ito sa maraming mga nagawa ni LENI Robredo.
   - [Ligao City for Leni Robredo](https://www.facebook.com/groups/609413743830369/)
   - [Bulacan For LENI](https://www.facebook.com/groups/187428989412589/)
   - [Calamba for Leni-Kiko](https://www.facebook.com/calambaforleniandkiko)
+  - [Antipolo for Leni Robredo](https://www.facebook.com/groups/1024045255098283)
 
 - Visayas
 
