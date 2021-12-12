@@ -163,6 +163,8 @@ Iilan lang po ito sa maraming mga nagawa ni LENI Robredo.
     - [Taiwan Group](https://tinyurl.com/leni-tw-fb)
     - [Thailand Group](https://tinyurl.com/leni-th-fb)
     - [Thailand Page](https://tinyurl.com/leni-th-fbpage)
+    - [Laos Group](https://tinyurl.com/leni-la-fb)
+    - [Laos Page](https://tinyurl.com/leni-la-fbpge)
     - [Vietnam Group](https://tinyurl.com/leni-vtn-fb)
         
     Middle East
