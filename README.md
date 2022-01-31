@@ -4,7 +4,7 @@
 	<br>
     <hr>
     <h1>List of links for the campaign of Leni Robredo for Philippine President</h1>
-    <p>by <a href="https://www.facebook.com/groups/it4leni">IT Professionals for LENI</a> & contributors.</p>
+    <p>by contributors</p>
     <br>
     <br>
     <h2>Official Leni Robredo Links</h2>
@@ -78,7 +78,7 @@ Iilan lang po ito sa maraming mga nagawa ni LENI Robredo.
 
 - [Team Leni Robredo](https://www.facebook.com/teamlenirobredo)
 - [Dapat Si Leni](https://facebook.com/dapatsileni)
-- [IT Professionals for LENI](https://www.facebook.com/groups/it4leni)
+- [Techies4Leni](https://www.facebook.com/techies4leni)
 - [Lawyers for LENI](https://www.facebook.com/LawyersForLeni/)
 - [Professionals for LENI](https://www.facebook.com/professionalsforleni/)
 - [Engineers for LENI](https://www.facebook.com/groups/engineersforleni/)
@@ -253,9 +253,6 @@ This links will redirect you to individual forms of each volunteer groups.
 - [Lawyers for Leni](https://docs.google.com/forms/d/e/1FAIpQLSdzI2-GjqHwDjimprbapeWsQO6G-keiZnuY-UijaJIHjt47pg/viewform)
 - [LGBTQIA+ for Leni](https://docs.google.com/forms/d/e/1FAIpQLSf7V0kOsVe9qrO8f_Tu5qGpNog4DJowdqhsN6FEJl5Rd5lwPw/viewform)
 
-## How to Contribute?
-
-Temporarily message nyo po kami sa twitter [IT Professionals for LENI](https://twitter.com/itforleni), Kung kayo naman po ay developer, PRs are welcome.
 
 ### Thanks to all contributors
 
