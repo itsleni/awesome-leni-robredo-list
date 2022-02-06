@@ -1,7 +1,7 @@
 <div align="center">
-	<img src="media/awesome-leni.jpg" alt="Awesome Leni Robredo List">
-	<br>
-	<br>
+ <img src="media/awesome-leni.jpg" alt="Awesome Leni Robredo List">
+ <br>
+ <br>
     <hr>
     <h1>List of links for the campaign of Leni Robredo for Philippine President</h1>
     <p>by contributors</p>
@@ -13,14 +13,14 @@
     <p><a href="https://www.youtube.com/channel/UCvlZWzCZfRb1PZcpU21Sp5Q">Leni Robredo Youtube</a></p>
     <p><a href="https://twitter.com/lenirobredo">Leni Robredo Twitter</a></p>
     <p><a href="https://www.instagram.com/bise_leni/">Leni Robredo Instagram</a></p>
-    
-    
+
 </div>
 
 ## Contents
 
-- [Websites](#websites)
+- [Contents](#contents)
 - [What Leni Did?](#what-leni-did)
+- [Websites](#websites)
 - [Facebook Groups and Pages](#facebook-groups-and-pages)
 - [Twitter](#twitter)
 - [Instagram](#instagram)
@@ -29,7 +29,7 @@
 - [Tiktok](#tiktok)
 - [Graphic Resources](#graphic-resources)
 - [Want to Volunteer?](#want-to-volunteer)
-- [How To Contribute?](#how-to-contribute)
+  - [Thanks to all contributors](#thanks-to-all-contributors)
 
 ## What Leni Did?
 
@@ -37,34 +37,34 @@ Iilan lang po ito sa maraming mga nagawa ni LENI Robredo.
 
 - Farmers
 
-  - (https://www.facebook.com/watch/?v=10154392781129453&ref=sharing&_rdc=1&_rdr)
+  - (<https://www.facebook.com/watch/?v=10154392781129453&ref=sharing&_rdc=1&_rdr>)
 
 - Healthcare
 
-  - (https://web.facebook.com/OVPBayanihanEKonsulta)
+  - (<https://web.facebook.com/OVPBayanihanEKonsulta>)
 
 - Education
 
-  - (https://web.facebook.com/dzmmteleradyo/posts/10158044963214620)
+  - (<https://web.facebook.com/dzmmteleradyo/posts/10158044963214620>)
 
 - Labor
 
-  - (https://web.facebook.com/photo/?fbid=4204140313047063&set=a.634351246692672)
+  - (<https://web.facebook.com/photo/?fbid=4204140313047063&set=a.634351246692672>)
 
 - Food Security
 
-  - (https://rappler.com/moveph/leni-robredo-national-food-security-bill)
+  - (<https://rappler.com/moveph/leni-robredo-national-food-security-bill>)
 
 - Social Benefits
 
-  - (https://rappler.com/nation/robredo-message-duterte-government-give-monthly-cash-aid-poorest-filipino-families)
+  - (<https://rappler.com/nation/robredo-message-duterte-government-give-monthly-cash-aid-poorest-filipino-families>)
 
 - Agrarian
 
-  - (https://mb.com.ph/2021/07/01/robredo-augments-livelihood-of-agrarian-reform-beneficiaries/)
+  - (<https://mb.com.ph/2021/07/01/robredo-augments-livelihood-of-agrarian-reform-beneficiaries/>)
 
 - Peace Talks
-  - (https://mindanews.com/peace-process/2021/10/robredo-to-resume-peace-talks-with-ndf-if-elected-president-but/)
+  - (<https://mindanews.com/peace-process/2021/10/robredo-to-resume-peace-talks-with-ndf-if-elected-president-but/>)
 
 ## Websites
 
@@ -119,6 +119,7 @@ Iilan lang po ito sa maraming mga nagawa ni LENI Robredo.
   - [Bulacan For LENI](https://www.facebook.com/groups/187428989412589/)
   - [Calamba for Leni-Kiko](https://www.facebook.com/calambaforleniandkiko)
   - [Antipolo for Leni Robredo](https://www.facebook.com/groups/1024045255098283)
+  - [Bataan for Leni](https://www.facebook.com/BataanforLeni2022/)
 
 - Visayas
 
@@ -136,9 +137,6 @@ Iilan lang po ito sa maraming mga nagawa ni LENI Robredo.
   - [CDO for Leni](https://www.facebook.com/groups/cdoforleni/)
   - [1Lanao for Leni](https://www.facebook.com/groups/563324841647136/)
 
-
-
-
 - Abroad or OFW groups
 
   - [Team Leni Robredo Singapore](https://www.facebook.com/groups/teamlenirobredosg)
@@ -151,58 +149,58 @@ Iilan lang po ito sa maraming mga nagawa ni LENI Robredo.
   - [Team Leni Robredo Thailand](https://www.facebook.com/teamLeniThailand/)
 
   Asia
-    - [Brunei Group](https://tinyurl.com/leni-br-fb)
-    - [Brunei Page](https://tinyurl.com/leni-br-fbpage)
-    - [Cambodia Group](https://tinyurl.com/leni-cb-fb)
-    - [China Group](https://tinyurl.com/leni-ch-fb)
-    - [HongKong/Macau Group](https://tinyurl.com/leni-hkma-fb)
-    - [Hongkong Group](https://tinyurl.com/leni-hk-fb)
-    - [Japan Group](https://tinyurl.com/leni-japan-fb)
-    - [Singapore Group](https://tinyurl.com/leni-sg-fb)
-    - [South Korea Group](https://tinyurl.com/leni-sk-fb)
-    - [Taiwan Group](https://tinyurl.com/leni-tw-fb)
-    - [Thailand Group](https://tinyurl.com/leni-th-fb)
-    - [Thailand Page](https://tinyurl.com/leni-th-fbpage)
-    - [Laos Group](https://tinyurl.com/leni-la-fb)
-    - [Laos Page](https://tinyurl.com/leni-la-fbpge)
-    - [Vietnam Group](https://tinyurl.com/leni-vtn-fb)
-        
-    Middle East
-    - [Middle East Group](https://tinyurl.com/leni-me1-fb)
-    - [Israel Group](https://tinyurl.com/leni-israel-fb)
-    - [Israel Page](https://www.facebook.com/HolyLandForLeniRobredo)
-    - [Kuwait Group](https://tinyurl.com/leni-ku-fb)
-    - [Qatar Group](https://tinyurl.com/leni-qt-fb)
-    - [Saudi Arabia Group](https://tinyurl.com/leni-sa-fb)
-    - [United Arab Emirates Group](https://tinyurl.com/leni-uae-fb)
 
+  - [Brunei Group](https://tinyurl.com/leni-br-fb)
+  - [Brunei Page](https://tinyurl.com/leni-br-fbpage)
+  - [Cambodia Group](https://tinyurl.com/leni-cb-fb)
+  - [China Group](https://tinyurl.com/leni-ch-fb)
+  - [HongKong/Macau Group](https://tinyurl.com/leni-hkma-fb)
+  - [Hongkong Group](https://tinyurl.com/leni-hk-fb)
+  - [Japan Group](https://tinyurl.com/leni-japan-fb)
+  - [Singapore Group](https://tinyurl.com/leni-sg-fb)
+  - [South Korea Group](https://tinyurl.com/leni-sk-fb)
+  - [Taiwan Group](https://tinyurl.com/leni-tw-fb)
+  - [Thailand Group](https://tinyurl.com/leni-th-fb)
+  - [Thailand Page](https://tinyurl.com/leni-th-fbpage)
+  - [Laos Group](https://tinyurl.com/leni-la-fb)
+  - [Laos Page](https://tinyurl.com/leni-la-fbpge)
+  - [Vietnam Group](https://tinyurl.com/leni-vtn-fb)
+
+    Middle East
+
+  - [Middle East Group](https://tinyurl.com/leni-me1-fb)
+  - [Israel Group](https://tinyurl.com/leni-israel-fb)
+  - [Israel Page](https://www.facebook.com/HolyLandForLeniRobredo)
+  - [Kuwait Group](https://tinyurl.com/leni-ku-fb)
+  - [Qatar Group](https://tinyurl.com/leni-qt-fb)
+  - [Saudi Arabia Group](https://tinyurl.com/leni-sa-fb)
+  - [United Arab Emirates Group](https://tinyurl.com/leni-uae-fb)
 
     North America
-    - [Canada Group](https://tinyurl.com/leni-ca-fb)
-    - [Canada - British Columbia Group](https://tinyurl.com/leni-ca-bc-fb)
-    - [Canada - Alberta Group](https://tinyurl.com/leni-ca-cal-fb)
-    - [Canada - Manitoba Group](https://tinyurl.com/leni-ca-mani-fb)
-    - [Canada - Ontario & Quebec Group](https://tinyurl.com/leni-ca-onqu-fb)
-    - [USA - East Coast Group](https://tinyurl.com/leni-fb-usa-eastcoast)
-    - [USA - West Coast/Pacific Northwest Group](https://tinyurl.com/leni-fb-usa-westcoast)
-    - [US & Canada for Leni Group](https://tinyurl.com/leni-usnca-fb)
-    - [USA & Canada for Leni & Kiko Group](https://tinyurl.com/leni-usca-fb)
+
+  - [Canada Group](https://tinyurl.com/leni-ca-fb)
+  - [Canada - British Columbia Group](https://tinyurl.com/leni-ca-bc-fb)
+  - [Canada - Alberta Group](https://tinyurl.com/leni-ca-cal-fb)
+  - [Canada - Manitoba Group](https://tinyurl.com/leni-ca-mani-fb)
+  - [Canada - Ontario & Quebec Group](https://tinyurl.com/leni-ca-onqu-fb)
+  - [USA - East Coast Group](https://tinyurl.com/leni-fb-usa-eastcoast)
+  - [USA - West Coast/Pacific Northwest Group](https://tinyurl.com/leni-fb-usa-westcoast)
+  - [US & Canada for Leni Group](https://tinyurl.com/leni-usnca-fb)
+  - [USA & Canada for Leni & Kiko Group](https://tinyurl.com/leni-usca-fb)
 
     Europe
-    - [Europe Group](https://tinyurl.com/leni-europe-fb)
-    - [Europe Instagram](https://tinyurl.com/leni-eu-ig)
-    - [Great Britain Whatsapp](https://tinyurl.com/leni-gb-whatsapp)
-    - [Spain Group](https://tinyurl.com/leni-es-fb)
+
+  - [Europe Group](https://tinyurl.com/leni-europe-fb)
+  - [Europe Instagram](https://tinyurl.com/leni-eu-ig)
+  - [Great Britain Whatsapp](https://tinyurl.com/leni-gb-whatsapp)
+  - [Spain Group](https://tinyurl.com/leni-es-fb)
 
     Oceania
-    - [Australia Group](https://tinyurl.com/leni-au-fb)
-    - [Australia Telegram](https://t.me/joinchat/Md4U07ul_IExMzdl)
-    - [New Zealand Group](https://tinyurl.com/leni-nz-fb)
-    - [New Zealand Page](https://tinyurl.com/leni-nz-fbpage)
 
-
-
-
+  - [Australia Group](https://tinyurl.com/leni-au-fb)
+  - [Australia Telegram](https://t.me/joinchat/Md4U07ul_IExMzdl)
+  - [New Zealand Group](https://tinyurl.com/leni-nz-fb)
+  - [New Zealand Page](https://tinyurl.com/leni-nz-fbpage)
 
 - Youths
 
@@ -252,7 +250,6 @@ This links will redirect you to individual forms of each volunteer groups.
 - [Dapat Si Leni](https://dapatsileni.com/volunteer-for-leni/)
 - [Lawyers for Leni](https://docs.google.com/forms/d/e/1FAIpQLSdzI2-GjqHwDjimprbapeWsQO6G-keiZnuY-UijaJIHjt47pg/viewform)
 - [LGBTQIA+ for Leni](https://docs.google.com/forms/d/e/1FAIpQLSf7V0kOsVe9qrO8f_Tu5qGpNog4DJowdqhsN6FEJl5Rd5lwPw/viewform)
-
 
 ### Thanks to all contributors
 
