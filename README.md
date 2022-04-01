@@ -209,6 +209,7 @@ Iilan lang po ito sa maraming mga nagawa ni LENI Robredo.
   - [Negros Youth for Leni](https://www.facebook.com/NegrosYouth4Leni/)
   - [Youth for Leni Iloilo](https://www.facebook.com/Youth4LeniIloilo/)
   - [Youth for Leni Laguna](https://www.facebook.com/groups/369625034906524)
+  - [Tarlac Youth for Leni - Paniqui](https://www.facebook.com/PaniquiY4L)
 
 - Schools
   - [Bedans for Leni](https://www.facebook.com/groups/bedansforleni/)
